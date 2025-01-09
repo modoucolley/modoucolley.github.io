@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "1615592452.com.remitone.app.aps2",
+        "paths": ["/customer/login", "/v1/statements:check"]
+      }
+    ]
+  }
+}
