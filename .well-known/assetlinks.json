@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.remitone.app.aps2",
+                 "sha256_cert_fingerprints": ["64:DB:FE:5C:9F:22:62:B3:3B:32:C1:D3:ED:E0:E9:FC:6A:3B:3D:07:0C:FA:23:E0:1A:52:45:E4:F1:39:CA:9C"] }
+  }]
