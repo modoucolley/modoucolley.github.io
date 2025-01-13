@@ -2,8 +2,15 @@
   "applinks": {
     "details": [
       {
-        "appID": "64T2N3M4F8.com.remitone.app.aps2",
-        "paths": ["/customer/login"]
+        "appIDs":[ 
+          "64T2N3M4F8.com.remitone.app.aps2"
+        ],
+        "components": [
+          {
+            "/": "/customer/login/*",
+            "comment": "Matches any URL with a fragment that equals no_universal_links and instructs the system not to open it as a universal link."
+          }
+        ]
       }
     ]
   }
