@@ -7,7 +7,7 @@
         ],
         "components": [
           {
-            "/": "/customer/login/*",
+            "/": "/customer/*",
             "comment": "Matches any URL"
           }
         ]
